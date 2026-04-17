@@ -1,6 +1,7 @@
 # Game Boy Color Emulator
 
 A Rust Game Boy / Game Boy Color emulator core.
+<img width="801" height="741" alt="image" src="https://github.com/user-attachments/assets/a482737e-631b-4f72-bd3d-86c5f5656b22" />
 
 This is a headless first milestone: it can load cartridges, run CPU steps, tick timers and the PPU, maintain a 160x144 framebuffer, and expose cartridge metadata from the command line. A windowed frontend can be added on top of the library crate.
 
